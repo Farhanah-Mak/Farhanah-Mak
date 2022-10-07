@@ -1,7 +1,10 @@
  Hi, I’m Farhanah-Mak
  
  
- Aspiring WebDeveloper
+ Aspiring Front-end Developer and a Home-maker
+ Computer Science Graduate
+ HTML-CSS-JAVASCRPIPT---more to go!
+ I use this platform to publish my works that I am learning throughout my journey of becoming a front-end developer.
 
 
 <!---
